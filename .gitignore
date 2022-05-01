@@ -1,0 +1,7 @@
+.*
+!.gitignore
+!.editorconfig
+!.vimrc
+
+tmp
+
